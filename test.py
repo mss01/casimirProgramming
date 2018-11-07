@@ -17,3 +17,7 @@ def surfaceArea(rad):
 print('Circumference of circle with radius', rad, 'is', circumFer(rad))
 print('Surface area of circle with radius', rad, 'is', surfaceArea(rad))
 
+def VolumeSphere(rad):
+    vol=4/3*pi*rad**3
+    return vol
+
