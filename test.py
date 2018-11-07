@@ -1,3 +1,4 @@
+#a script to calculate circum.
 import numpy as np
 
 rad = 1
