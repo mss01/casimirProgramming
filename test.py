@@ -7,6 +7,7 @@ def circumFer(rad):
     return circ
 
 def surfaceArea(rad):
+    '''Calculates the surface area of a circle'''
     surfA = np.pi*rad**2
     return surfA
 
